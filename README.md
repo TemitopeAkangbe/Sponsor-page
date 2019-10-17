@@ -1,1 +1,1 @@
-# Sponsor-page
+The page images and logo
